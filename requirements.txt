@@ -1,0 +1,8 @@
+pandas==2.2.3
+matplotlib
+
+tensorflow==2.17.0
+
+langchain==0.3.0
+
+seaborn
